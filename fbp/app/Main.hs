@@ -1,6 +1,6 @@
-module Main where
+module FBP.App.Main where
 
-import Lib
+import Lib (someFunc)
 
 main :: IO ()
 main = someFunc

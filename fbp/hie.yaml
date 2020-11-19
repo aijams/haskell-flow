@@ -1,0 +1,8 @@
+cradle:
+  stack:
+  - path: "./app/Main.hs"
+    component: ""
+  - path: "./src/Lib.hs"
+    component: ""
+  - path: "./test/Spec.hs"
+    component: ""

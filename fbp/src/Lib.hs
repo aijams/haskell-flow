@@ -1,4 +1,4 @@
-module Lib
+module FBP.Src.Lib
     ( someFunc
     ) where
 
