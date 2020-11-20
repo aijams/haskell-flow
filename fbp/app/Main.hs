@@ -1,4 +1,4 @@
-module FBP.App.Main where
+module Main where
 
 import Lib (someFunc)
 
