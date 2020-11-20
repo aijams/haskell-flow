@@ -1,8 +1,8 @@
 cradle:
   stack:
   - path: "./app/Main.hs"
-    component: ""
+    component: "fbp:exe:fbp-exe"
   - path: "./src/Lib.hs"
-    component: ""
+    component: "fbp:lib"
   - path: "./test/Spec.hs"
-    component: ""
+    component: "fbp:test:fbp-test"

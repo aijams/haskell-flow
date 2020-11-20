@@ -1,19 +1,19 @@
 cabal-version: 1.12
 
--- This file has been generated from package.yaml by hpack version 0.31.1.
+-- This file has been generated from package.yaml by hpack version 0.33.0.
 --
 -- see: https://github.com/sol/hpack
 --
--- hash: 658e9ca2b16736cdd28959b4b62366ad18fabfe60bf8c8fb4a601a2dc3c6da63
+-- hash: 39f2795667b71fd82d95ad5171cba44770031c3dd72ebb3bb8b3be6f1750a7b3
 
 name:           fbp
 version:        0.1.0.0
 description:    Please see the README on GitHub at <https://github.com/githubuser/fbp#readme>
-homepage:       https://github.com/githubuser/fbp#readme
-bug-reports:    https://github.com/githubuser/fbp/issues
-author:         Author name here
-maintainer:     example@example.com
-copyright:      2020 Author name here
+homepage:       https://github.com/aijams/fbp#readme
+bug-reports:    https://github.com/aijams/fbp/issues
+author:         Augustus Ijams
+maintainer:     aija1100@gmail.com
+copyright:      2020 Augustus Ijams
 license:        BSD3
 license-file:   LICENSE
 build-type:     Simple
@@ -23,7 +23,7 @@ extra-source-files:
 
 source-repository head
   type: git
-  location: https://github.com/githubuser/fbp
+  location: https://github.com/aijams/fbp
 
 library
   exposed-modules:

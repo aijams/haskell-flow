@@ -1,10 +1,10 @@
 name:                fbp
 version:             0.1.0.0
-github:              "githubuser/fbp"
+github:              "aijams/fbp"
 license:             BSD3
-author:              "Author name here"
-maintainer:          "example@example.com"
-copyright:           "2020 Author name here"
+author:              "Augustus Ijams"
+maintainer:          "aija1100@gmail.com"
+copyright:           "2020 Augustus Ijams"
 
 extra-source-files:
 - README.md
